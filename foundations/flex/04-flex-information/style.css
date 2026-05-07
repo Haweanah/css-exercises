@@ -12,6 +12,7 @@ img {
   font-weight: 900;
   display: flex;
   justify-self: center;
+  margin-bottom: 32px;
 }
 
 .info-body {
@@ -23,6 +24,12 @@ img {
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+}
+
+.text {
+  display: flex;
+  text-align: center;
+  text-wrap: wrap;
 }
 
 /* do not edit this footer */
