@@ -12,7 +12,17 @@ img {
   font-weight: 900;
   display: flex;
   justify-self: center;
-  align-self: center;
+}
+
+.info-body {
+  display: flex;
+}
+
+.info-item {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 /* do not edit this footer */
